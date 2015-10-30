@@ -1,0 +1,32 @@
+C:\Users\Sam\Desktop\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.exe.config
+C:\Users\Sam\Desktop\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.exe
+C:\Users\Sam\Desktop\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.pdb
+C:\Users\Sam\Desktop\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.Properties.Resources.resources
+C:\Users\Sam\Desktop\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\Yahtzee.ScoreView.resources
+C:\Users\Sam\Desktop\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.exe
+C:\Users\Sam\Desktop\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.pdb
+C:\Users\Sam\Desktop\Temp\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.exe.config
+C:\Users\Sam\Desktop\Temp\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.exe
+C:\Users\Sam\Desktop\Temp\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.pdb
+C:\Users\Sam\Desktop\Temp\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.exe
+C:\Users\Sam\Desktop\Temp\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.pdb
+C:\Users\Sam\Desktop\Temp\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Temp\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.Properties.Resources.resources
+C:\Users\Sam\Desktop\Temp\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\Yahtzee.ScoreView.resources
+C:\Users\Sam\Desktop\Temp\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\Temp\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\Yahtzee.YahtzeeView.resources
+C:\Users\Sam\Desktop\Temp - kopie\Yahtzee\Yahtzee\bin\Debug\YahtzeeAfgewerkt.exe.config
+C:\Users\Sam\Desktop\Temp - kopie\Yahtzee\Yahtzee\obj\Debug\YahtzeeAfgewerkt.exe
+C:\Users\Sam\Desktop\Temp - kopie\Yahtzee\Yahtzee\obj\Debug\YahtzeeAfgewerkt.pdb
+C:\Users\Sam\Desktop\Temp - kopie\Yahtzee\Yahtzee\bin\Debug\YahtzeeAfgewerkt.exe
+C:\Users\Sam\Desktop\Temp - kopie\Yahtzee\Yahtzee\bin\Debug\YahtzeeAfgewerkt.pdb
+C:\Users\Sam\Desktop\Temp - kopie\Yahtzee\Yahtzee\obj\Debug\YahtzeeAfgewerkt.Properties.Resources.resources
+C:\Users\Sam\Desktop\Temp - kopie\Yahtzee\Yahtzee\obj\Debug\Yahtzee.ScoreView.resources
+C:\Users\Sam\Desktop\Temp - kopie\Yahtzee\Yahtzee\obj\Debug\Yahtzee.YahtzeeView.resources
+C:\Users\Sam\Desktop\Temp - kopie\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\Temp - kopie\Yahtzee\Yahtzee\bin\Debug\YahtzeeAfgewerkt.exe.CodeAnalysisLog.xml
+C:\Users\Sam\Desktop\Temp - kopie\Yahtzee\Yahtzee\bin\Debug\YahtzeeAfgewerkt.exe.lastcodeanalysissucceeded
+F:\Gebruikers\Sam\Mijn documenten\School\3e-jaar-MCT\Software engineering\Github-repository\SamDeWachter\opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee\bin\Debug\YahtzeeAfgewerkt.exe.config
+F:\Gebruikers\Sam\Mijn documenten\School\3e-jaar-MCT\Software engineering\Github-repository\SamDeWachter\opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee\obj\Debug\YahtzeeAfgewerkt.exe
+F:\Gebruikers\Sam\Mijn documenten\School\3e-jaar-MCT\Software engineering\Github-repository\SamDeWachter\opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee\obj\Debug\YahtzeeAfgewerkt.pdb

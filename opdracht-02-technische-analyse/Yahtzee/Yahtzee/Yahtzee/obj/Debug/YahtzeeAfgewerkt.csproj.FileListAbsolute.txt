@@ -1,0 +1,11 @@
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.exe.config
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.exe
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.pdb
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.csprojResolveAssemblyReference.cache
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.Properties.Resources.resources
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.csproj.GenerateResource.Cache
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.exe
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.pdb
+C:\Users\Sam\Desktop\YahtzeeAfgewerkt\YahtzeeAfgewerkt\bin\Debug\YahtzeeAfgewerkt.exe.config
+C:\Users\Sam\Desktop\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.exe
+C:\Users\Sam\Desktop\YahtzeeAfgewerkt\YahtzeeAfgewerkt\obj\Debug\YahtzeeAfgewerkt.pdb

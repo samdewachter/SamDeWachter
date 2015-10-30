@@ -1,0 +1,19 @@
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\Mexico-Game\Mexico-Game\bin\Debug\Mexico-Game.exe.config
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\Mexico-Game\Mexico-Game\bin\Debug\Mexico-Game.exe
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\Mexico-Game\Mexico-Game\bin\Debug\Mexico-Game.pdb
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\Mexico-Game\Mexico-Game\obj\Debug\Mexico-Game.csprojResolveAssemblyReference.cache
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\Mexico-Game\Mexico-Game\obj\Debug\Mexico_Game.Form1.resources
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\Mexico-Game\Mexico-Game\obj\Debug\Mexico_Game.Properties.Resources.resources
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\Mexico-Game\Mexico-Game\obj\Debug\Mexico-Game.csproj.GenerateResource.Cache
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\Mexico-Game\Mexico-Game\obj\Debug\Mexico-Game.exe
+c:\users\jeff monballiu\documents\visual studio 2015\Projects\Mexico-Game\Mexico-Game\obj\Debug\Mexico-Game.pdb
+C:\Users\Jeff Monballiu\Documents\Visual Studio 2015\Projects\Mexico-Game\Mexico-Game\obj\Debug\Mexico.GameView.resources
+C:\Users\Jeff Monballiu\Documents\Visual Studio 2015\Projects\Mexico-Game\Mexico-Game\obj\Debug\Mexico.MexicoView.resources
+C:\Users\Jeff Monballiu\Documents\Visual Studio 2015\Projects\Mexico-Game\Mexico-Game\obj\Debug\Mexico.ScoreboardView.resources
+C:\Users\Jeff Monballiu\Documents\Visual Studio 2015\Projects\Mexico-Game\Mexico-Game\obj\Debug\Mexico.TeerlingView.resources
+C:\Users\Sam\Desktop\Mexico-Game\Mexico-Game\bin\Debug\Mexico-Game.exe.config
+C:\Users\Sam\Desktop\Mexico-Game\Mexico-Game\obj\Debug\Mexico-Game.exe
+C:\Users\Sam\Desktop\Mexico-Game\Mexico-Game\obj\Debug\Mexico-Game.pdb
+F:\Gebruikers\Sam\Mijn documenten\School\3e-jaar-MCT\Software engineering\Github-repository\SamDeWachter\opdracht-03-versiebeheer\opdracht in team werken\Mexico-Game\Mexico-Game\bin\Debug\Mexico-Game.exe.config
+F:\Gebruikers\Sam\Mijn documenten\School\3e-jaar-MCT\Software engineering\Github-repository\SamDeWachter\opdracht-03-versiebeheer\opdracht in team werken\Mexico-Game\Mexico-Game\obj\Debug\Mexico-Game.exe
+F:\Gebruikers\Sam\Mijn documenten\School\3e-jaar-MCT\Software engineering\Github-repository\SamDeWachter\opdracht-03-versiebeheer\opdracht in team werken\Mexico-Game\Mexico-Game\obj\Debug\Mexico-Game.pdb
